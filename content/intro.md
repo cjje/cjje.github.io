@@ -1,4 +1,4 @@
 Hi, I’m Gyung Hyun. I go by Jay, which is how my last name is pronounced. I'm a second-year Ph.D. student at the University of Toronto, advised by Colin Raffel.
 My primary research focus is large-language models (LLM); my current goal is to develop a deeper understanding of LLM training — the how and whys — while having fun along the way. In the long-term, I hope to do research that strengthens human agency, rather than replace it. Topics I am interested in include **training dynamics** (model forgetting, memorization), **data safety** (data poisoning, quality filtering), and **collaborative / decentralized model development**.
 
-Outside of research, I like to cycle through different workouts, dabble in sci-fi or literature, or be out in nature. You can reach me via email, jayje at cs dot toronto dot ca.
+Outside of research, I like to cycle through different workouts, dabble in sci-fi or literature, or be out in nature. You can reach me via email, jayje at cs dot toronto dot edu.
